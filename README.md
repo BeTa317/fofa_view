@@ -43,6 +43,9 @@ The Fofa Pro View plugin for Chrome automatically checks whether Fofa Pro has an
 ![](images/7.png)
 
 ## 更新日志
+2022-01-28
+
+-更新为fofa的新域名
 
 2021-04-02
 
